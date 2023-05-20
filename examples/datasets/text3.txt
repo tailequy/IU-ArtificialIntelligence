@@ -1,0 +1,1 @@
+Term frequency-inverse document frequency (TF-IDF) is a statistical measure from information retrieval that tackles this problem and is one of the most commonly used weighting schemes in information retrieval. In TF-IDF the term frequency (TF) is combined with the inverse document frequency (DF).
